@@ -1,2 +1,1 @@
-# QR-Generator
-A sleek, CustomTkinter-based desktop application that allows you to generate personalized QR codes with ease.
+QR Code Generator with Custom LogosA sleek, CustomTkinter-based desktop application that allows you to generate personalized QR codes with ease.Key Features:Custom Styling: Choose from 25 color presets for both the QR code and the background.Logo Integration: Upload and center a custom image/logo on top of your generated QR code.High-Level Precision: Uses high error correction ($QRCODE\_H$) to ensure the code remains scannable even with an overlapping logo.Easy Export: Simple interface to preview and save your designs as PNG files.
